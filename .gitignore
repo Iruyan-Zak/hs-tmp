@@ -1,0 +1,7 @@
+*
+!*.hs
+!.gitignore
+
+!new_lang_task/
+!paiza/
+
